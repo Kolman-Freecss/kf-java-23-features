@@ -21,4 +21,5 @@ public class CollectionsDemo {
         List<String> copy = List.copyOf(names);
         System.out.println("Copied List: " + copy);
     }
+
 }
